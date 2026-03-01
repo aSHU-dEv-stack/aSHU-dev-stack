@@ -31,7 +31,7 @@ I am a **2nd Year Computer Science Student** and an aspiring Full-Stack Develope
 * Actively participating in Open Source contributions and Hackathons.
 
 ### 📊 GitHub Stats
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul-example&show_icons=true&theme=radical)
+![Ashu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshuITechnophile&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-example&layout=compact&theme=radical)
 
 ---
