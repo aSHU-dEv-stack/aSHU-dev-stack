@@ -1,47 +1,91 @@
-# Hi there, I'm Rahul! 👋
+# Ashutosh Mishra  
+### Frontend Engineer | UI/UX Strategist | Community Builder  
 
-I am a **2nd Year Computer Science Student** and an aspiring Full-Stack Developer. I’m passionate about building scalable web applications and solving complex problems through clean code.
-
-### 🔭 I’m currently working on...
-* **EcoTrack:** A web-based application to monitor personal carbon footprints using React and Node.js.
-* Refining my Data Structures & Algorithms skills in **C++**.
-
-### 🛠 Tech Stack & Tools
-
-**Languages:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-**Frameworks & Libraries:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Tools & Design:**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+I build scalable web applications with a strong focus on usability, performance, and clean architecture.  
+Currently leading UI/UX initiatives at GDG on Campus while developing modern web platforms using React and Angular.
 
 ---
 
-### 🚀 Leadership & Community
-* **Core Member** @ [Campus Coding Club]
-* **Volunteer** @ [Local Tech Community]
-* Actively participating in Open Source contributions and Hackathons.
+## 🧠 About Me
 
-### 📊 GitHub Stats
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul-example&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-example&layout=compact&theme=radical)
+- 🎓 B.Tech Computer Science (3rd Year)  
+- 🎯 Aspiring Software Engineer focused on Frontend & Product Engineering  
+- 🏗 Passionate about transforming ideas into production-ready web solutions  
+- 🤝 Active contributor to developer communities and campus tech initiatives  
 
----
-
-### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rahul-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://rahul-portfolio.com)
+I specialize in bridging design thinking with engineering execution — ensuring products are not just functional, but intuitive and impactful.
 
 ---
 
-### ⚡ Fun Fact
-When I'm not debugging, I'm usually exploring hidden cafes or trying to automate my daily tasks with simple Python scripts!
+## 🛠 Tech Stack
+
+### 💻 Programming
+- JavaScript (ES6+)
+- TypeScript
+- C++
+
+### 🌐 Frontend Development
+- React.js
+- Angular
+- HTML5, CSS3
+- Tailwind CSS
+
+### 🎨 Design & Tools
+- Figma
+- Adobe Illustrator
+- Git & GitHub
+- VS Code
+
+---
+
+## 🚀 Highlight Projects
+
+### 🔹 GDG SAGE University Official Website
+**Role:** UI/UX Lead & Frontend Developer  
+**Stack:** React, Tailwind CSS, Firebase  
+
+- Led the design architecture and front-end development  
+- Improved user engagement through structured UI flows  
+- Collaborated with a 6-member development team  
+- Implemented responsive design for cross-device compatibility  
+
+🔗 Live Demo: [Website Link]  
+🔗 Repository: [GitHub Repo Link]  
+
+---
+
+### 🔹 Event Management Web Platform
+**Stack:** Angular, Firebase  
+
+- Designed and developed event registration workflows  
+- Integrated real-time database handling  
+- Reduced manual registration process by 60%  
+
+---
+
+## 🏆 Leadership & Community
+
+- **UI/UX Lead** — GDG on Campus (2025–26)  
+- Core member organizing technical workshops & hackathons  
+- Mentored junior developers in frontend fundamentals  
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+---
+
+## 📬 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/yourprofile  
+- Portfolio: https://yourportfolio.com  
+- Email: yourmail@example.com  
+
+---
+
+### ⚡ Beyond Code
+
+I enjoy exploring product design trends, optimizing workflows, and contributing to collaborative tech environments.
