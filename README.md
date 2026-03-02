@@ -31,11 +31,8 @@ I am a **2nd Year Computer Science Student** and an aspiring Full-Stack Develope
 * Actively participating in Open Source contributions and Hackathons.
 
 ### 📊 GitHub Stats
-![Ashu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshuITechnophile&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-example&layout=compact&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AshuITechnophile&theme=radical)](https://github.com/aSHU-dEv-stack)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshuITechnophile&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshuITechnophile&layout=compact&theme=default)
+
 
 ---
 
